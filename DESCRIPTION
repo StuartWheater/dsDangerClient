@@ -1,7 +1,7 @@
 Package: dsDangerClient
 Maintainer: DataSHIELD Developers <datashield@newcastle.ac.uk>
 Author: DataSHIELD Developers <datashield@newcastle.ac.uk>
-Version: 6.3.1
+Version: 6.3.4-9000
 License: GPL-3
 Title: Client-side DataSHIELD functions - DANGER for development only
 Description: Client-side DataSHIELD functions - returns server side objects - only use in development environment.
